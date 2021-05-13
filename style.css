@@ -1,1 +1,28 @@
+ div{
+  border-style:solid;
+  border-color:brown;
+  background-color:bisque;
+  color:blue;
+ }
+ .First{
+ color:red;
+ text-decoration:underline;
+ text-align: center;
+ }
+ p{
+  color:blue;
+ }
+h2{
+  color:green;
+  text-decoration:underline;
+}
+#One{
+ color:purple;
+ 
+}
+#Six{
+  text-align:right;
+  color:aqua;
+}
+
 
